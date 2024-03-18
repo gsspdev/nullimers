@@ -1,0 +1,25 @@
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+  <publisher>
+    <name>UniProt Consortium</name>
+    <url>http://www.uniprot.org/</url>
+  </publisher>
+  <license>
+    <name>Creative Commons Attribution 4.0 International (CC BY 4.0)</name>
+    <url>http://creativecommons.org/licenses/by/4.0/</url>
+  </license>
+  <description>UniProt</description>
+  <version>2024_01</version>
+  <files>
+    <file name="README">
+      <size>3101</size>
+      <verification>
+        <hash type="md5">5845a44e788cd260b04a558f77b14f4c</hash>
+      </verification>
+      <resources>
+        <url type="ftp" location="ch" preference="100">ftp://ftp.expasy.org/databases/uniprot/current_release/knowledgebase/embeddings/README</url>
+        <url type="ftp" location="uk" preference="100">ftp://ftp.ebi.ac.uk/pub/databases/uniprot/current_release/knowledgebase/embeddings/README</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/embeddings/README</url>
+      </resources>
+    </file>
+  </files>
+</metalink>
